@@ -1,0 +1,11 @@
+.cont{
+    position: absolute;
+    top: 80px;
+    left:240px;
+    width:570px;
+    height:540px;
+    background-color: white;
+    box-shadow: 0 0 2px 2px;
+    border-radius: 3px;
+    padding: 10px;
+}
